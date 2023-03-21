@@ -1,11 +1,11 @@
-About sqlakeyset
-================
+About sqlakeyset-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlakeyset-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/djrobstep/sqlakeyset
 
 Package license: Unlicense
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlakeyset-feedstock/blob/main/LICENSE.txt)
 
 Summary: offset-free paging for sqlalchemy
 
