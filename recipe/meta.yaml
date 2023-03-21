@@ -1,5 +1,5 @@
 {% set name = "sqlakeyset" %}
-{% set version = "1.0.1659142803" %}
+{% set version = "1.0.1679375467" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlakeyset-{{ version }}.tar.gz
-  sha256: fc9c7b0509f8eadb3e686b643c8a8ac178d6d1e13d3e0110bc73a59d98cf0695
+  sha256: 2fd7479a552fdfafebaf53f604060255c3389a501adb74696b7123581d0b7ecd
 
 build:
   number: 0
